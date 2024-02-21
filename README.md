@@ -2,7 +2,7 @@
 I am Zhuoyang Li, go by Ellen.
 
 - 🔭 I’m currently working as a research assistant at City University of Hong Kong.
-- 🤖️ My research lies at the intersection of Human-computer Interaction (HCI), Health Communication and Persuasive Communication. 
+- 🤖️ My research lies at the intersection of Human-computer Interaction (HCI), Health and Persuasive Technology. 
 - 📫 You can reach me through [my school email](zhuoyanli4@cityu.edu.hk) or [my personal email](lizhuoyang720@gmail.com).
 - 💬 I am actively looking for PhD opportunities right now. 
 <!--
